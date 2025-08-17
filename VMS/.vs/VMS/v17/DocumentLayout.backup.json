@@ -1,0 +1,922 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\VMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Site1.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Site1.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|x:\\vms\\vms\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:vms\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\DetailForm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\DetailForm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\VMS\\29_07_2025_sql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:29_07_2025_sql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\VMS\\VMS\\Styles\\Bookin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VMS\\Styles\\Bookin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Priyangshu\\source\\repos\\VMS\\VMS\\Styles\\Default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Styles\\Login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Styles\\Login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\ReceptionDashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\ReceptionDashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\ReceptionLog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\ReceptionLog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Styles\\Register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Styles\\Register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Site2.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Site2.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\GenerateQR.ashx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\GenerateQR.ashx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\FrontDesk.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\FrontDesk.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Bookin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Bookin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\AssignBadge.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\AssignBadge.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\ApprovedVisitors.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\ApprovedVisitors.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Analytics.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Analytics.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\AdminContactMessages.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\AdminContactMessages.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\AdminApproval.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\AdminApproval.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\ReceptionDashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\ReceptionDashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\AdminApproval.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\AdminApproval.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\ReceptionLog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\ReceptionLog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\ApprovedVisitors.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\ApprovedVisitors.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\VisitorCheckOut.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\VisitorCheckOut.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\VisitorCheckOut.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\VisitorCheckOut.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\FrontDesk.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\FrontDesk.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\AssignBadge.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\AssignBadge.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\FrontDesk.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\FrontDesk.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\ReceptionLog.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\ReceptionLog.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\ScanQR.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\ScanQR.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\DetailForm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\DetailForm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Bookin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Bookin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Analytics.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Analytics.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\AdminContactMessages.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\AdminContactMessages.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Site1.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Site1.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Site2.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Site2.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Analytics.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Analytics.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Site1.Master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Site1.Master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\Web.Debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\Web.Debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\AdminApproval.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\AdminApproval.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\ScanQR.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\ScanQR.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|X:\\VMS\\VMS\\ScanQR.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2D7411-9954-4133-83CC-03722EC30E98}|VMS\\VMS.csproj|solutionrelative:VMS\\ScanQR.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\VMS\\29_07_2025_sql.sql||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:29_07_2025_sql.sql||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "VMS\\PasswordHelper.cs",
+              "ToolTip": "X:\\VMS\\VMS\\PasswordHelper.cs",
+              "RelativeToolTip": "VMS\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:33:59.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Login.aspx",
+              "RelativeDocumentMoniker": "VMS\\Login.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\Login.aspx",
+              "RelativeToolTip": "VMS\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-07T10:56:22.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenerateQR.ashx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\GenerateQR.ashx.cs",
+              "RelativeDocumentMoniker": "VMS\\GenerateQR.ashx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\GenerateQR.ashx.cs",
+              "RelativeToolTip": "VMS\\GenerateQR.ashx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:51:23.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrontDesk.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\FrontDesk.aspx",
+              "RelativeDocumentMoniker": "VMS\\FrontDesk.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\FrontDesk.aspx",
+              "RelativeToolTip": "VMS\\FrontDesk.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-08T05:34:51.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Admin.aspx",
+              "RelativeDocumentMoniker": "VMS\\Admin.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\Admin.aspx",
+              "RelativeToolTip": "VMS\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-07T05:49:36.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\Admin.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\Admin.aspx.cs",
+              "RelativeToolTip": "VMS\\Admin.aspx.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwFMAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:02:58.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Web.config",
+              "RelativeDocumentMoniker": "VMS\\Web.config",
+              "ToolTip": "X:\\VMS\\VMS\\Web.config",
+              "RelativeToolTip": "VMS\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-10T04:03:04.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Register.aspx",
+              "RelativeDocumentMoniker": "VMS\\Register.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\Register.aspx",
+              "RelativeToolTip": "VMS\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-09T04:05:42.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\Register.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\Register.aspx.cs",
+              "RelativeToolTip": "VMS\\Register.aspx.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:20:01.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Site1.Master",
+              "RelativeDocumentMoniker": "VMS\\Site1.Master",
+              "ToolTip": "X:\\VMS\\VMS\\Site1.Master",
+              "RelativeToolTip": "VMS\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-07T06:25:06.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Site2.Master",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Site2.Master",
+              "RelativeDocumentMoniker": "VMS\\Site2.Master",
+              "ToolTip": "X:\\VMS\\VMS\\Site2.Master",
+              "RelativeToolTip": "VMS\\Site2.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T04:00:07.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "style.css",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Styles\\style.css",
+              "RelativeDocumentMoniker": "VMS\\Styles\\style.css",
+              "ToolTip": "X:\\VMS\\VMS\\Styles\\style.css",
+              "RelativeToolTip": "VMS\\Styles\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-10T11:09:27.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.css",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Styles\\Register.css",
+              "RelativeDocumentMoniker": "VMS\\Styles\\Register.css",
+              "ToolTip": "X:\\VMS\\VMS\\Styles\\Register.css",
+              "RelativeToolTip": "VMS\\Styles\\Register.css",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-10T10:43:27.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetailForm.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\DetailForm.aspx",
+              "RelativeDocumentMoniker": "VMS\\DetailForm.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\DetailForm.aspx",
+              "RelativeToolTip": "VMS\\DetailForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-08T11:27:39.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Default.aspx",
+              "RelativeDocumentMoniker": "VMS\\Default.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\Default.aspx",
+              "RelativeToolTip": "VMS\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-08T11:07:43.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "29_07_2025_sql.sql ",
+              "DocumentMoniker": "X:\\VMS\\29_07_2025_sql.sql",
+              "RelativeDocumentMoniker": "29_07_2025_sql.sql",
+              "ToolTip": "29_07_2025_sql.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-06T13:24:22.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReceptionLog.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\ReceptionLog.aspx",
+              "RelativeDocumentMoniker": "VMS\\ReceptionLog.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\ReceptionLog.aspx",
+              "RelativeToolTip": "VMS\\ReceptionLog.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-16T06:15:55.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReceptionDashboard.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\ReceptionDashboard.aspx",
+              "RelativeDocumentMoniker": "VMS\\ReceptionDashboard.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\ReceptionDashboard.aspx",
+              "RelativeToolTip": "VMS\\ReceptionDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-16T10:22:07.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.css",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Styles\\Login.css",
+              "RelativeDocumentMoniker": "VMS\\Styles\\Login.css",
+              "ToolTip": "X:\\VMS\\VMS\\Styles\\Login.css",
+              "RelativeToolTip": "VMS\\Styles\\Login.css",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAwMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T04:41:12.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Bookin.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Bookin.aspx",
+              "RelativeDocumentMoniker": "VMS\\Bookin.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\Bookin.aspx",
+              "RelativeToolTip": "VMS\\Bookin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-07T10:02:16.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bookin.css",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Styles\\Bookin.css",
+              "RelativeDocumentMoniker": "VMS\\Styles\\Bookin.css",
+              "ToolTip": "X:\\VMS\\VMS\\Styles\\Bookin.css",
+              "RelativeToolTip": "VMS\\Styles\\Bookin.css",
+              "ViewState": "AgIAAF0AAAAAAAAAAIBJwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-29T04:10:31.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssignBadge.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\AssignBadge.aspx",
+              "RelativeDocumentMoniker": "VMS\\AssignBadge.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\AssignBadge.aspx",
+              "RelativeToolTip": "VMS\\AssignBadge.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T04:54:14.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApprovedVisitors.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\ApprovedVisitors.aspx",
+              "RelativeDocumentMoniker": "VMS\\ApprovedVisitors.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\ApprovedVisitors.aspx",
+              "RelativeToolTip": "VMS\\ApprovedVisitors.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-14T06:04:14.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Analytics.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Analytics.aspx",
+              "RelativeDocumentMoniker": "VMS\\Analytics.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\Analytics.aspx",
+              "RelativeToolTip": "VMS\\Analytics.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-14T05:14:01.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminContactMessages.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\AdminContactMessages.aspx",
+              "RelativeDocumentMoniker": "VMS\\AdminContactMessages.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\AdminContactMessages.aspx",
+              "RelativeToolTip": "VMS\\AdminContactMessages.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-16T08:38:10.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminApproval.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\AdminApproval.aspx",
+              "RelativeDocumentMoniker": "VMS\\AdminApproval.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\AdminApproval.aspx",
+              "RelativeToolTip": "VMS\\AdminApproval.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-07T10:45:30.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReceptionDashboard.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\ReceptionDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\ReceptionDashboard.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\ReceptionDashboard.aspx.cs",
+              "RelativeToolTip": "VMS\\ReceptionDashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:22:28.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminApproval.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\AdminApproval.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\AdminApproval.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\AdminApproval.aspx.cs",
+              "RelativeToolTip": "VMS\\AdminApproval.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:46:12.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReceptionLog.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\ReceptionLog.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\ReceptionLog.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\ReceptionLog.aspx.cs",
+              "RelativeToolTip": "VMS\\ReceptionLog.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:16:18.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApprovedVisitors.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\ApprovedVisitors.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\ApprovedVisitors.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\ApprovedVisitors.aspx.cs",
+              "RelativeToolTip": "VMS\\ApprovedVisitors.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwE8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:04:28.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VisitorCheckOut.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\VisitorCheckOut.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\VisitorCheckOut.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\VisitorCheckOut.aspx.cs",
+              "RelativeToolTip": "VMS\\VisitorCheckOut.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:13:10.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VisitorCheckOut.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\VisitorCheckOut.aspx",
+              "RelativeDocumentMoniker": "VMS\\VisitorCheckOut.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\VisitorCheckOut.aspx",
+              "RelativeToolTip": "VMS\\VisitorCheckOut.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T05:12:56.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrontDesk.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\FrontDesk.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\FrontDesk.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\FrontDesk.aspx.cs",
+              "RelativeToolTip": "VMS\\FrontDesk.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:35:07.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AssignBadge.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\AssignBadge.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\AssignBadge.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\AssignBadge.aspx.cs",
+              "RelativeToolTip": "VMS\\AssignBadge.aspx.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAgwI8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:54:40.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrontDesk.aspx.designer.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\FrontDesk.aspx.designer.cs",
+              "RelativeDocumentMoniker": "VMS\\FrontDesk.aspx.designer.cs",
+              "ToolTip": "X:\\VMS\\VMS\\FrontDesk.aspx.designer.cs",
+              "RelativeToolTip": "VMS\\FrontDesk.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T03:49:11.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReceptionLog.aspx.designer.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\ReceptionLog.aspx.designer.cs",
+              "RelativeDocumentMoniker": "VMS\\ReceptionLog.aspx.designer.cs",
+              "ToolTip": "X:\\VMS\\VMS\\ReceptionLog.aspx.designer.cs",
+              "RelativeToolTip": "VMS\\ReceptionLog.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:03:47.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ScanQR.aspx",
+              "DocumentMoniker": "X:\\VMS\\VMS\\ScanQR.aspx",
+              "RelativeDocumentMoniker": "VMS\\ScanQR.aspx",
+              "ToolTip": "X:\\VMS\\VMS\\ScanQR.aspx",
+              "RelativeToolTip": "VMS\\ScanQR.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-07T06:43:40.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\Login.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\Login.aspx.cs",
+              "RelativeToolTip": "VMS\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:56:30.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DetailForm.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\DetailForm.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\DetailForm.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\DetailForm.aspx.cs",
+              "RelativeToolTip": "VMS\\DetailForm.aspx.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:25:18.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\Default.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\Default.aspx.cs",
+              "RelativeToolTip": "VMS\\Default.aspx.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:24:18.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Bookin.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Bookin.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\Bookin.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\Bookin.aspx.cs",
+              "RelativeToolTip": "VMS\\Bookin.aspx.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:02:20.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Analytics.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Analytics.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\Analytics.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\Analytics.aspx.cs",
+              "RelativeToolTip": "VMS\\Analytics.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T05:14:20.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AdminContactMessages.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\AdminContactMessages.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\AdminContactMessages.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\AdminContactMessages.aspx.cs",
+              "RelativeToolTip": "VMS\\AdminContactMessages.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:38:58.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "VMS\\Site1.Master.cs",
+              "ToolTip": "X:\\VMS\\VMS\\Site1.Master.cs",
+              "RelativeToolTip": "VMS\\Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:25:23.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Site2.Master.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Site2.Master.cs",
+              "RelativeDocumentMoniker": "VMS\\Site2.Master.cs",
+              "ToolTip": "X:\\VMS\\VMS\\Site2.Master.cs",
+              "RelativeToolTip": "VMS\\Site2.Master.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:09:59.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Analytics.aspx.designer.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Analytics.aspx.designer.cs",
+              "RelativeDocumentMoniker": "VMS\\Analytics.aspx.designer.cs",
+              "ToolTip": "X:\\VMS\\VMS\\Analytics.aspx.designer.cs",
+              "RelativeToolTip": "VMS\\Analytics.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:05:17.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.css",
+              "DocumentMoniker": "C:\\Users\\Priyangshu\\source\\repos\\VMS\\VMS\\Styles\\Default.css",
+              "ToolTip": "C:\\Users\\Priyangshu\\source\\repos\\VMS\\VMS\\Styles\\Default.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T04:05:19.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Site1.Master.designer.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Site1.Master.designer.cs",
+              "RelativeDocumentMoniker": "VMS\\Site1.Master.designer.cs",
+              "ToolTip": "X:\\VMS\\VMS\\Site1.Master.designer.cs",
+              "RelativeToolTip": "VMS\\Site1.Master.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:09:34.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Global.asax.cs",
+              "RelativeDocumentMoniker": "VMS\\Global.asax.cs",
+              "ToolTip": "X:\\VMS\\VMS\\Global.asax.cs",
+              "RelativeToolTip": "VMS\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:25:07.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "X:\\VMS\\VMS\\Web.Debug.config",
+              "RelativeDocumentMoniker": "VMS\\Web.Debug.config",
+              "ToolTip": "X:\\VMS\\VMS\\Web.Debug.config",
+              "RelativeToolTip": "VMS\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-08T05:35:22.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AdminApproval.aspx.designer.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\AdminApproval.aspx.designer.cs",
+              "RelativeDocumentMoniker": "VMS\\AdminApproval.aspx.designer.cs",
+              "ToolTip": "X:\\VMS\\VMS\\AdminApproval.aspx.designer.cs",
+              "RelativeToolTip": "VMS\\AdminApproval.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:31:54.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ScanQR.aspx.designer.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\ScanQR.aspx.designer.cs",
+              "RelativeDocumentMoniker": "VMS\\ScanQR.aspx.designer.cs",
+              "ToolTip": "X:\\VMS\\VMS\\ScanQR.aspx.designer.cs",
+              "RelativeToolTip": "VMS\\ScanQR.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:49:50.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ScanQR.aspx.cs",
+              "DocumentMoniker": "X:\\VMS\\VMS\\ScanQR.aspx.cs",
+              "RelativeDocumentMoniker": "VMS\\ScanQR.aspx.cs",
+              "ToolTip": "X:\\VMS\\VMS\\ScanQR.aspx.cs",
+              "RelativeToolTip": "VMS\\ScanQR.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:44:03.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
