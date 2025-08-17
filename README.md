@@ -1,118 +1,118 @@
-  Visitor Management System (VMS)
+🚀 Visitor Management System (VMS)
 
-A web-based Visitor Management System built with ASP.NET Web Forms and C#. It enables organizations to register visitors, manage check-ins/check-outs, and monitor visits. Administrators and receptionists can log in to approve visitors, scan QR-coded badges, track visit logs, and view analytics, while visitors can register their details and receive a QR code badge.
+A web-based Visitor Management System built with ASP.NET Web Forms and C#.
+It enables organizations to register visitors, manage check-ins/check-outs, and monitor visits.
 
-Key Features
+👥 Roles Supported:
 
-Visitor Registration: Visitors can enter personal and visit details (name, contact, purpose, etc.) through a registration form.
+Visitors – Register details and receive a QR badge.
 
-Admin Approval: Administrators review pending visitor requests and approve or reject them.
+Receptionists – Handle check-ins and check-outs.
 
-QR Code Badges: Upon approval, the system generates a QR code badge for the visitor (using the QRCoder library).
+Administrators – Approve visitors, manage logs, and view analytics.
 
-Check-In/Check-Out: Reception staff can scan the visitor’s badge (or enter the badge ID) to log check-in and check-out times.
+✨ Key Features
 
-Visit Analytics: Dashboard displays statistics (e.g. total visitors, daily/monthly trends) for administrators and receptionists.
+📝 Visitor Registration – Fill in name, contact, and visit details.
 
-Contact Messages: Visitors can submit contact inquiries, which admins can view in a messaging panel.
+✅ Admin Approval – Approve or reject visitor requests.
 
-Role-Based Access: Separate interfaces for Admin and Reception users, with login authentication.
+🎟 QR Code Badges – Auto-generated with the QRCoder library.
 
-Technology Stack
+⏱ Check-In/Check-Out – Log entries using badge scanning or ID.
 
-ASP.NET Web Forms (C#, .NET): Uses Microsoft’s ASP.NET Web Forms framework (included with Visual Studio)
-learn.microsoft.com
- on the .NET Framework. This event-driven model simplifies dynamic page development
-learn.microsoft.com
-learn.microsoft.com
-.
+📊 Visit Analytics – Dashboard with daily/monthly visitor stats.
 
-.NET Framework 4.8: The project targets .NET Framework 4.8 (C#)
-learn.microsoft.com
-.
+📩 Contact Messages – Visitors can send inquiries to admins.
 
-Frontend: HTML5, CSS for styling, and the QRCoder library for generating QR codes for visitor badges.
+🔑 Role-Based Access – Separate dashboards for Admin & Reception.
 
-Database: Microsoft SQL Server (Express). A local SQL database stores tables for users, visitors, check-in logs, etc.
+🛠 Technology Stack
 
-Folder Structure
+ASP.NET Web Forms (C#, .NET Framework 4.8) – Event-driven web development framework.
 
-The repository is organized as follows:
+Frontend: HTML5, CSS, Bootstrap.
 
+QR Code Generation: QRCoder Library.
+
+Database: Microsoft SQL Server (Express).
+
+📂 Folder Structure
 VMS/                   # Solution root
-├─ .vs/                # Visual Studio settings folder (local files)
-├─ packages/           # NuGet package cache (compiler and framework tools)
-├─ VMS/                # ASP.NET Web Forms project directory
-│   ├─ Admin.aspx, Login.aspx, Register.aspx, etc.   # WebForms pages
-│   ├─ GenerateQR.ashx                                 # HTTP handler for QR code images
-│   ├─ Styles/ (CSS files for styling)
-│   ├─ QR/ (sample QR code images)
-│   ├─ Uploads/ (uploaded profile images)
-│   ├─ bin/ (compiled DLLs, including QRCoder.dll)
-│   ├─ obj/ (build artifacts)
-│   ├─ Web.config, Global.asax, VMS.csproj            # Config and project files
-├─ VMS.sln            # Visual Studio solution file
-└─ 29_07_2025_sql.sql # SQL script to create the “Reg” database and tables
+├─ .vs/                # Visual Studio settings
+├─ packages/           # NuGet packages
+├─ VMS/                # Main project folder
+│   ├─ *.aspx          # WebForms pages (Admin, Login, Register, etc.)
+│   ├─ GenerateQR.ashx # HTTP handler for QR code generation
+│   ├─ Styles/         # CSS files
+│   ├─ QR/             # QR code images
+│   ├─ Uploads/        # Profile uploads
+│   ├─ bin/            # Compiled DLLs (incl. QRCoder.dll)
+│   ├─ obj/            # Build artifacts
+│   ├─ Web.config      # App configuration
+│   └─ VMS.csproj      # Project file
+├─ VMS.sln             # Solution file
+└─ 29_07_2025_sql.sql  # SQL script for database setup
 
-Prerequisites
+⚡ Prerequisites
 
-Visual Studio 2019 or later with the ASP.NET and web development workload installed
-learn.microsoft.com
-.
+Visual Studio 2019+ (with ASP.NET and web development workload)
 
-.NET Framework 4.8 (the project is built targeting .NET 4.8).
+.NET Framework 4.8
 
-Microsoft SQL Server or SQL Server Express for the database. (The connection string uses .\SQLEXPRESS by default.)
+Microsoft SQL Server / SQL Server Express
 
-Git (to clone the repository) and any tool (e.g. SSMS or Visual Studio) to run the SQL script.
+Git
 
-Setup Instructions
+🏗 Setup Instructions
 
-Clone the repository:
+Clone the repository
 
 git clone https://github.com/YourUsername/VMS.git
 cd VMS
 
 
-Open the solution: Launch Visual Studio and open VMS.sln. Visual Studio will restore NuGet packages (see packages/ folder).
+Open the solution
+Open VMS.sln in Visual Studio.
 
-Configure the database:
+Configure the database
 
-Open SQL Server (or SQL Server Management Studio) and create a new database named Reg.
+Create a database named Reg.
 
-Execute the SQL script 29_07_2025_sql.sql (located in the repository root) against this database. This will create the required tables (Users, Book, CheckInLog, ContactMessages, Details, etc.).
+Run 29_07_2025_sql.sql to create tables (Users, Book, CheckInLog, etc.).
 
-Ensure the connection string in VMS/Web.config matches your SQL Server instance. By default it is:
+Update the connection string in Web.config if needed:
 
 Data Source=.\SQLEXPRESS;Initial Catalog=Reg;Integrated Security=True;
 
 
-Modify Data Source or Initial Catalog if needed for your environment.
+Build the project
+In Visual Studio: Build > Rebuild Solution.
 
-Build the project: In Visual Studio, clean and rebuild the solution (Build > Rebuild Solution).
+Run the app
 
-Run the application: Start the web app in debug mode. In Visual Studio select the IIS Express button or press F5 to launch the site locally
-learn.microsoft.com
-. A browser window should open at the home page.
+Click IIS Express or press F5.
 
-Building and Running Locally
+The web app will open in your browser.
 
-With the prerequisites installed and the database configured, you can run the app locally using Visual Studio:
+🖥 Running Locally
 
-In Visual Studio’s toolbar, click the IIS Express (or Play) button to start debugging
-learn.microsoft.com
-.
+▶️ Start the project with F5 (debug mode) or Ctrl+F5 (without debug).
 
-Alternatively, press F5 (start debugging) or Ctrl+F5 (start without debugging) to build and launch the application.
+Access pages like Login, Register, Admin Dashboard, Reception Dashboard.
 
-The site will open in your web browser. Navigate through pages like Login, Register, and the Admin/Reception dashboards to verify functionality.
+🤝 Contributing
 
-Contributing
+This is a solo project right now.
+But contributions are welcome! 🎉
 
-This is currently a solo project. However, contributions and suggestions are welcome! Feel free to fork the repository and submit pull requests. When contributing, please ensure code follows the existing style and is thoroughly tested.
+Fork the repo
 
-License
+Make your changes
 
-This project is licensed under the MIT License. (See the LICENSE file or the official MIT License for details.)
+Submit a Pull Request
 
-Sources: Project code and structure analyzed from the provided ASP.NET Web Forms application; technology references from Microsoft documentation
+📜 License
+
+Licensed under the MIT License.
+See LICENSE for details.
