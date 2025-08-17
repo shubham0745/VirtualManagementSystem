@@ -1,4 +1,4 @@
-                                                                                             Visitor Management System (VMS)
+  Visitor Management System (VMS)
 
 A web-based Visitor Management System built with ASP.NET Web Forms and C#. It enables organizations to register visitors, manage check-ins/check-outs, and monitor visits. Administrators and receptionists can log in to approve visitors, scan QR-coded badges, track visit logs, and view analytics, while visitors can register their details and receive a QR code badge.
 
